@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-	<item0>"Skills": "testing, checking"</item0>
+	<item0>{"Soft Skills": 
+    "Communication",
+    "Teamwork",
+    "Critical thinking",
+    "Decision making",
+    "Knowledge management",
+    "Working in uncertainty mode",
+    "Lean manufacturing",
+    "Environmental thinking",
+    "Introspection and self‑reflection"} </item0>
 </root>
